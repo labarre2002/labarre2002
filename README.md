@@ -1,3 +1,6 @@
+#GH-LIGHT-MODE-ONLY
+#GH-DARK-MODE-ONLY
+
 - 👋 Hi, I’m @labarre2002
 - 👀 I’m interested in ...Linux and Creative Coding
 - 🌱 Front-end Dev
